@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TrabalhoFinal.Page2" Title="Pagina 2">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <StackLayout>
+                <Label Text="POSTER" HorizontalTextAlignment="Center" FontSize="Large" TextColor="Black" />
+            </StackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100*" />
+                </Grid.ColumnDefinitions>
+                <StackLayout VerticalOptions="Center" Grid.Row="2">
+                    <Image Source="{Binding ,}" x:Name="Backdrop_path" WidthRequest="400" HeightRequest="400" VerticalOptions="Center" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HeightRequest="350" BackgroundColor="AntiqueWhite" Grid.Row="3">
+                    <Image Source="{Binding ,}" x:Name="Poster_path" WidthRequest="150" HeightRequest="250" Aspect="AspectFit" />
+                    <StackLayout VerticalOptions="Center">
+                        <Label Text="{Binding ,}" x:Name="Original_title" TextColor="Red" />
+                        <Label Text="{Binding ,}" x:Name="Overview" TextColor="Black" />
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
+
+
+
+
+
+
+
+
+<!--
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="{Binding ,}" x:Name="teste"/>
+            <ListView x:Name="filmesList" HasUnevenRows="true">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Margin="5" HeightRequest="350" BackgroundColor="AntiqueWhite">
+                                <Image Source="{Binding FullPathImage}" WidthRequest="100" HeightRequest="200" Aspect="AspectFit" />
+                                <StackLayout VerticalOptions="Center">
+                                    <Label Text="{Binding NomeFilme}" TextColor="Red" />
+                                    <Label Text="{Binding DescricaoFilme}" TextColor="Black" />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+    -->
