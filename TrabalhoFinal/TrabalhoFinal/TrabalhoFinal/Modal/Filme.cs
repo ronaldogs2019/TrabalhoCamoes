@@ -19,5 +19,19 @@ namespace TrabalhoFinal.Modal
         [JsonProperty("overview")]
         public string Overview { get; set; }
 
+        public string NomeFilme
+        {
+            get
+            {
+                return "Nome: " + Original_title;
+            }
+        }
+        public string DescricaoFilme
+        {
+            get
+            {
+                return "Descrição: " + Overview;
+            }
+        }
     }
 }

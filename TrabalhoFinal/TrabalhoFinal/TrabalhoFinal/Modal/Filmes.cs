@@ -5,7 +5,6 @@ namespace TrabalhoFinal.Modal
 {
     class Filmes
     {
-
         [JsonProperty("poster_path")]
         public string Poster_path { get; set; }
 
@@ -25,7 +24,6 @@ namespace TrabalhoFinal.Modal
                 return "https://image.tmdb.org/t/p/w300_and_h450_bestv2/"+Poster_path;
             }
         }
-
         public string NomeFilme
         {
             get
@@ -33,7 +31,6 @@ namespace TrabalhoFinal.Modal
                 return "Nome: "+ Original_title;
             }
         }
-
         public string DescricaoFilme
         {
             get
@@ -41,18 +38,12 @@ namespace TrabalhoFinal.Modal
                 return "Descrição: " + Overview;
             }
         }
-
         public string CodigoFilme
         {
             get
             {
                 return Id+"-"+Original_title;
             }
-        }
-
-        public class RootObject
-        {
-            public List<Filmes> Results { get; set; }
         }
     }
 }

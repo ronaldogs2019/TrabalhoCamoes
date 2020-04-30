@@ -10,7 +10,6 @@ namespace TrabalhoFinal
         public App()
         {
             InitializeComponent();
-
             MainPage = new NavigationPage(new Page1());
         }
 

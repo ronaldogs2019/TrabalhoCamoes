@@ -32,35 +32,3 @@
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
-
-
-
-
-
-
-
-
-
-<!--
-    <ContentPage.Content>
-        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-            <Label Text="{Binding ,}" x:Name="teste"/>
-            <ListView x:Name="filmesList" HasUnevenRows="true">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <ViewCell>
-                            <StackLayout Orientation="Horizontal" Margin="5" HeightRequest="350" BackgroundColor="AntiqueWhite">
-                                <Image Source="{Binding FullPathImage}" WidthRequest="100" HeightRequest="200" Aspect="AspectFit" />
-                                <StackLayout VerticalOptions="Center">
-                                    <Label Text="{Binding NomeFilme}" TextColor="Red" />
-                                    <Label Text="{Binding DescricaoFilme}" TextColor="Black" />
-                                </StackLayout>
-                            </StackLayout>
-                        </ViewCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
-        </StackLayout>
-    </ContentPage.Content>
-</ContentPage>
-    -->

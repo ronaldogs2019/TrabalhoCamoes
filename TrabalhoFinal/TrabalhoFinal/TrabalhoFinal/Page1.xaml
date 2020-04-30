@@ -3,11 +3,10 @@
              x:Class="TrabalhoFinal.Page1" Title="Pagina 1">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-            <ListView x:Name="filmesList" HasUnevenRows="true">
+            <ListView x:Name="ListagemDeFilmes" HasUnevenRows="true">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
-                            <!-- Here we make a Horizontal orientation with the help of StackLayout-->
                             <StackLayout Orientation="Horizontal" Margin="5" HeightRequest="350" BackgroundColor="AntiqueWhite">
                                 <Image Source="{Binding FullPathImage}" WidthRequest="100" HeightRequest="200" Aspect="AspectFit" />
                                 <StackLayout VerticalOptions="Center">
@@ -19,7 +18,7 @@
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>
-            </ListView>
+            </ListView>           
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
