@@ -18,21 +18,11 @@ namespace TrabalhoFinal
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Page2 : ContentPage
     {
-        public int Count = 0;
-        public short Counter = 0;
-        public int SlidePosition = 0;
-        string heightList;
-        int heightRowsList = 90;
-        private const string Url = "https://api.themoviedb.org/3/movie/228150-fury?api_key=195f09ffbfbedc80a969bd3eeda78b38";
-        // This handles the Web data request
-        private HttpClient _client = new HttpClient();
-
-        // public string Replace(string target, string replacement);
-        public Page2(string data)
+        public Page2(string valor)
         {
             InitializeComponent();
 
-            string dados = data.ToLower();
+            string dados = valor.ToLower();
             string filme_id = dados.Replace(' ', '-');
             OnGetList(filme_id);
         }
