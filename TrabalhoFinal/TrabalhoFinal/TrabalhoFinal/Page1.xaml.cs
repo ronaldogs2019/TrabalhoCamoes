@@ -12,14 +12,12 @@ namespace TrabalhoFinal
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Page1 : ContentPage
     {
-        List<Filmes> listagem;
         public Page1()
         {
             InitializeComponent();
             BindingContext = new ListaFilmesViewModal();
             ListaFilmesViewModal viewModal = new ListaFilmesViewModal();
-            listagem = viewModal.GetJSON().Result.Results;
-            ListagemDeFilmes.ItemsSource = listagem;
+            ListagemDeFilmes.ItemsSource = viewModal.GetJSON().Result.Results;
             Content = ListagemDeFilmes;
         }
         

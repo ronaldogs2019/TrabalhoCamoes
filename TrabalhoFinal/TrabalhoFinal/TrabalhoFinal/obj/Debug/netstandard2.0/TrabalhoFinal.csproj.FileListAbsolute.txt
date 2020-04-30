@@ -16,3 +16,4 @@ C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\bin\Debu
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\netstandard2.0\TrabalhoFinal.csproj.CopyComplete
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\netstandard2.0\TrabalhoFinal.csproj.CoreCompileInputs.cache
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal\obj\Debug\netstandard2.0\TrabalhoFinal.csprojAssemblyReference.cache
