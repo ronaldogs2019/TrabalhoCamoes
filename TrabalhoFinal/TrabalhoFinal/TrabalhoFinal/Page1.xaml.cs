@@ -5,7 +5,6 @@ using TrabalhoFinal.ViewModal;
 
 namespace TrabalhoFinal
 {
-    //[XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Page1 : ContentPage
     {
         public Page1()
