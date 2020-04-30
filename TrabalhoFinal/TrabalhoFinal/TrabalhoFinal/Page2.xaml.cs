@@ -1,17 +1,8 @@
 ﻿using Newtonsoft.Json;
-using Plugin.Connectivity;
 using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Diagnostics;
-using System.Linq;
-using System.Net.Http;
-using System.Text;
-using System.Threading.Tasks;
 using TrabalhoFinal.Modal;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using static TrabalhoFinal.Modal.Filme;
 
 namespace TrabalhoFinal
 {
@@ -26,7 +17,6 @@ namespace TrabalhoFinal
             string filme_id = dados.Replace(' ', '-');
             OnGetList(filme_id);
         }
-
         protected async void OnGetList(string filme_id)
         {
             try

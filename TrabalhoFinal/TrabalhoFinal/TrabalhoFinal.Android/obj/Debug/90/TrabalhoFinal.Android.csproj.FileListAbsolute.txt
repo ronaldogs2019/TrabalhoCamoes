@@ -1,6 +1,3 @@
-C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Core.pdb
-C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
-C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Xml.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\bin\Debug\TrabalhoFinal.Android.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\bin\Debug\TrabalhoFinal.Android.pdb
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\bin\Debug\com.companyname.trabalhofinal.apk
@@ -98,6 +95,7 @@ C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Configuration.ConfigurationManager.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Core.pdb
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Data.dll
@@ -117,6 +115,7 @@ C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.IO.FileSystem.Primitives.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Linq.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Net.NameResolution.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Net.Primitives.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Net.Sockets.dll
@@ -156,6 +155,7 @@ C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Transactions.pdb
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Web.Services.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Xml.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
 C:\Users\ronaldo\source\repos\TrabalhoFinal\TrabalhoFinal\TrabalhoFinal.Android\obj\Debug\90\android\assets\System.Xml.pdb
